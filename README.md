@@ -4,7 +4,9 @@ This repository contains a Google Colab script for downloading a ZIP file, extra
 
 ## How to Use
 
-1. **Open the Notebook in Google Colab**: Upload the `.ipynb` file to Google Colab or open it directly if it's in your Google Drive. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SajithDL/Colab-File-Downloader-and-Organizer/blob/main/Colab_GdriveDownloader.ipynb)
+1. **Open the Notebook in Google Colab**: Upload the `.ipynb` file to Google Colab or open it directly if it's in your Google Drive.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SajithDL/Colab-File-Downloader-and-Organizer/blob/main/Colab_GdriveDownloader.ipynb)
 
 
 2. **Set the Variables**: At the top of the script, set the following variables:
